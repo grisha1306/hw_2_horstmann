@@ -1,4 +1,4 @@
-package com.company.chapter4.task4_task5;
+package com.company.chapter4.task4and5;
 
 public class Main {
     public static void main(String[] args) throws CloneNotSupportedException {

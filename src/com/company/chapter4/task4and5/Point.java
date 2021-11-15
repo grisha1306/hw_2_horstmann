@@ -1,4 +1,4 @@
-package com.company.chapter4.task4_task5;
+package com.company.chapter4.task4and5;
 
 public class Point {
     private double x;

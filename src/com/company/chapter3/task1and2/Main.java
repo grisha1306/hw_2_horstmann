@@ -1,4 +1,4 @@
-package com.company.chapter3.task1_task2;
+package com.company.chapter3.task1and2;
 
 public class Main {
 
